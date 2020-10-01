@@ -1,6 +1,6 @@
 <h3 align="center">Scripting-lab-html-css</h3>
 
-<h3>project on pure html/css </h3>
+<h3>Project on pure html/css </h3>
  
 <h4>This project includes most tags like div tag,section tag,anchor tag,form tag,button tag,paragraph tag,header tag,list tag.</h4>
 
