@@ -4,7 +4,7 @@
  
 <h4>This project includes most tags like div tag,section tag,anchor tag,form tag,button tag,paragraph tag,header tag,list tag.</h4>
 
-<h4>You can click on the navigation menus to go to desired section of the same page</h4>
+<h4>You can click on the navigation menus to go to desired section </h4>
 
 <h4>this is made by using pure html and css</h4>
  
