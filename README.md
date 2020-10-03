@@ -11,6 +11,6 @@
 <h3>Team members : </h4>
 
 <h4>Pavankumar K R(USN:1MS18IS064)</h4>
-<h4>Nitin c kallappa(USN:1MS18IS060)</h4> 
-<h4>Nagraj u(1MS18IS054)</h4> 
-<h4>MohanKumar (1MS18IS053)</h4>
+<h4>Nitin C Kallappa(USN:1MS18IS060)</h4> 
+<h4>Nagraj U(USN:1MS18IS054)</h4> 
+<h4>MohanKumar K (USN:1MS18IS053)</h4>
